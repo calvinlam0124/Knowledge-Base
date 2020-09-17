@@ -6,6 +6,8 @@
 - git hook (php-cs-fixer, phan, SAST DAST)
 - TDD-DDT BDD DDD
 - ChangeLog
+- GQL
+- CONTRIBUTING.md
 
 - git commit
 - git flow
