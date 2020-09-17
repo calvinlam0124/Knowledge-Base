@@ -16,3 +16,7 @@
 ### online tools
 Carbon - code to image
 Repl.it
+
+### Reference
+zero-trust-architecture
+https://github.com/ukncsc/zero-trust-architecture
