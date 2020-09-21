@@ -1,5 +1,8 @@
 # Todo
 
+- git flow
+- php quality check tools
+
 ### Architecture Improvement
 - Modelizate - pack as external library
 - Unit test
